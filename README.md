@@ -11,10 +11,14 @@ This repository is dedicated to systematically documenting the learning process 
 ---
 
 ### Learning Approach
-1. **Theoretical Summaries**: Key concepts and formulas summarized by chapter.
-2. **Code Implementation**: Reimplementation of book examples followed by experiments and improvements.
-3. **Result Analysis**: Visualizing and interpreting training results through graphs and metrics.
-4. **Applied Projects**: Applying learned knowledge to various datasets and custom problems.
+1. **Theoretical Summaries**:
+   key concepts and formulas summarized by chapter
+2. **Code Implementation**:
+   reimplementation of book examples followed by experiments and improvements
+3. **Result Analysis**:
+   visualizing and interpreting training results through graphs and metrics
+4. **Applied Projects**:
+   applying learned knowledge to various datasets and custom problems
 
 ---
 
